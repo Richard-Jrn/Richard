@@ -11,7 +11,7 @@ Let's connect on:
 
 Join me as I dig into how big data, and machine learning technologies can help solve real world problems. Coming from a non technical background I understand how frustrating It can be to learn Tech skills, without a proper roadmap. here I share daily tips on how to make this journey simple and straightforward  :pencil:
 
-check out my data sceince repo for more : [Here](https://github.com/Richard-Jrn/dataScience)
+check out my data sceince repo for more: :point_right:   [Here](https://github.com/Richard-Jrn/dataScience)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-jrn)](https://github.com/anuraghazra/github-readme-stats)

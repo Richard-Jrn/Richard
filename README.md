@@ -1,7 +1,7 @@
 
 # Data Science With Richard
 
-- Hi there. I'm Richard currently I'm a Bussiness Intelligence Engineer at ADM :relaxed:
+- Hi there, my name is Richard, currently I'm a Bussiness Intelligence Engineer at ADM :relaxed:
 - I love machine learning :robot: , and books :books:
 - I’m addicted to learning and growing every day :seedling:
 

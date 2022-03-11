@@ -3,14 +3,19 @@
 <!--
 **Richard-Jrn/Richard-Jrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Data Science With Richard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hi there. I'm Richard :relaxed:
+- I love machine learning :robot: , and books :books:
+- I’m addicted to learning and growing every day :seedling:
+
+Let's connect on:
+- 🔗[LinkedIn](https://www.linkedin.com/in/richard-sarpong-b911011a4/)
+- 🔗[Twitter](https://twitter.com/richardjnsa)
+
+Join me as I dig into how big data, and machine learning technologies can help solve real world problems. Coming from a non technical background I understand how frustrating It can be to learn Tech skills, without a proper roadmap. here I share daily tips on how to make this journey simple and straightforward  :pencil:
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard-jrn)](https://github.com/anuraghazra/github-readme-stats)
+

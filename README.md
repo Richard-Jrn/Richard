@@ -1,9 +1,9 @@
 
 # Data Science With Richard
 
-- Hi there, my name is Richard, currently I'm a data engineer :relaxed:
+- Hi there, my name is Richard, currently I'm a Data engineer :relaxed:
 - I love machine learning :robot: , and books :books:
-- I’m addicted to learning and growing every day :seedling:
+- Happy to  learn and grow every day :seedling:
 
 Let's connect on:
 - 🔗[LinkedIn](https://www.linkedin.com/in/richard-sarpong-b911011a4/)

@@ -1,7 +1,7 @@
 
-# Data Science With Richard
 
-- Hi there, my name is Richard, currently I'm a Data engineer :relaxed:
+
+- Hi there, my name is Richard!
 
 
 Let's connect on:
